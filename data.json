@@ -1,0 +1,53 @@
+[
+    {
+      "id": 11,
+      "name": "Sokha",
+      "address": "Phnom Penh"
+    },
+    {
+      "id": 12,
+      "name": "Sophea",
+      "address": "Siem Reap"
+    },
+    {
+      "id": 13,
+      "name": "Sreyneang",
+      "address": "Battambang"
+    },
+    {
+      "id": 14,
+      "name": "Sreypov",
+      "address": "Kampong Cham"
+    },
+    {
+      "id": 15,
+      "name": "Sreyleak",
+      "address": "Kandal"
+    },
+    {
+      "id": 16,
+      "name": "Sreyka",
+      "address": "Prey Veng"
+    },
+    {
+      "id": 17,
+      "name": "Sreymom",
+      "address": "Kampong Speu"
+    },
+    {
+      "id": 18,
+      "name": "Sreytouch",
+      "address": "Takeo"
+    },
+    {
+      "id": 19,
+      "name": "Sreynich",
+      "address": "Kampong Thom"
+    },
+    {
+      "id": 20,
+      "name": "Sreyneth",
+      "address": "Kampot"
+    }
+  ]
+  
